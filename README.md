@@ -11,7 +11,7 @@ PHP powers the majority of Nigerian web infrastructure — WordPress, Laravel, a
 ## Installation
 
 ```bash
-composer require yourname/natlas-php
+composer require king-abys/natlas-php
 ```
 
 ## Self-Hosting the Gateway
