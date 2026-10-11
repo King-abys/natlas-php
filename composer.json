@@ -1,5 +1,5 @@
 {
-    "name": "yourname/natlas-php",
+    "name": "King-abys/natlas-php",
     "description": "PHP SDK for N-ATLAS — Nigeria's multilingual LLM supporting Hausa, Igbo, Yoruba and Nigerian-accented English.",
     "type": "library",
     "license": "MIT",
