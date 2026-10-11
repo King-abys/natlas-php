@@ -24,7 +24,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "NAtlas\\Tests\\": "tests/"
+            "NAtlas\\Tests\\": "test/"
         }
     },
     "scripts": {
