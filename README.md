@@ -16,7 +16,7 @@ composer require king-abys/natlas-php
 
 ## Self-Hosting the Gateway
 
-> ⚠️ **There is no public N-ATLAS API.** You must run a gateway that serves the model behind an OpenAI-compatible endpoint.
+>  **There is no public N-ATLAS API.** You must run a gateway that serves the model behind an OpenAI-compatible endpoint.
 
 The SDK talks to any OpenAI-compatible `/v1` endpoint. Recommended options:
 
